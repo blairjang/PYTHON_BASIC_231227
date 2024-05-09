@@ -1,0 +1,2 @@
+OPENAI_KEY = "sk-proj-hEMSIcwyVXDcGfXubSSeT3BlbkFJBfWRbG5Dl0UkCYSIladG"
+HUGGINGFACE_KEY = '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'
